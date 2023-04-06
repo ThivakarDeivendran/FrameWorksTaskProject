@@ -45,7 +45,6 @@ public class Buy_Now_Amazon {
 	Thread.sleep(3000);
 	System.out.println("Window 1 Title  : " + driver.getTitle());
 	String mainWindow = driver.getWindowHandle();
-	
 	Set<String>windowTab=driver.getWindowHandles();
 	 Iterator<String> iterator =windowTab.iterator();
 	 while(iterator.hasNext()) {

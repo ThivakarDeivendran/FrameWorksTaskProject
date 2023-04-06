@@ -71,5 +71,7 @@
 	<classpathentry kind="lib" path="D:/User/Document/Apache_POI/poi-bin-5.2.3/auxiliary/xmlgraphics-commons-2.6.jar"/>
 	<classpathentry kind="lib" path="D:/User/Document/Apache_POI/poi-bin-5.2.3/auxiliary/xmlsec-3.0.0.jar"/>
 	<classpathentry kind="lib" path="D:/User/Document/New_Jars/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
