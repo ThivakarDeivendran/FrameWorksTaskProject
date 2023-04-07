@@ -1,1 +1,12 @@
-Testing file
+name: Testing_file
+
+on:
+  push:
+    branches: [master]
+jobs:
+  demo1:
+    runs-on: ubuntu-latest
+    steps:
+     - name: world
+       run: echo "This is my qa world testing"
+      
